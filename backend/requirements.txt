@@ -1,0 +1,6 @@
+fastapi>=0.111
+uvicorn[standard]>=0.30
+prefect>=2.18
+openai>=1.30
+python-dotenv>=1.0
+pydantic>=2.7
